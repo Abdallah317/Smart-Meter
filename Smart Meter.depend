@@ -1,0 +1,365 @@
+# depslib dependency file v1.0
+1719447298 source:c:\users\pc\desktop\last\total_try\src\calc_pf.cpp
+	<cmath>
+	"calc_pf.h"
+
+1719447154 c:\users\pc\desktop\last\total_try\include\calc_pf.h
+	"Filter_Signal.h"
+	"freq_period.h"
+
+1719357756 c:\users\pc\desktop\last\total_try\include\filter_signal.h
+	<string>
+	"Read_data.h"
+
+1719357756 c:\users\pc\desktop\last\total_try\include\read_data.h
+	<string>
+
+1719445842 c:\users\pc\desktop\last\total_try\include\freq_period.h
+	<cmath>
+	"Filter_Signal.h"
+
+1719357756 source:c:\users\pc\desktop\last\total_try\src\filter_signal.cpp
+	"Filter_Signal.h"
+
+1719445842 source:c:\users\pc\desktop\last\total_try\src\freq_period.cpp
+	"freq_period.h"
+	<iostream>
+
+1719446076 source:c:\users\pc\desktop\last\total_try\src\read_data.cpp
+	"Read_data.h"
+	<iostream>
+	<sstream>
+	<fstream>
+	<string>
+
+1719447317 source:c:\users\pc\desktop\last\total_try\main.cpp
+	<iostream>
+	<sstream>
+	<fstream>
+	"Read_data.h"
+	"Filter_Signal.h"
+	"calc_pf.h"
+	"RMS.h"
+	"freq_period.h"
+	<string>
+
+1719357764 c:\users\pc\desktop\last\total_try\include\rms.h
+	"Filter_Signal.h"
+
+1719357853 source:c:\users\pc\desktop\last\total_try\src\rms.cpp
+	"RMS.h"
+	<cmath>
+
+1722519203 source:c:\users\pc\desktop\project_final one\total_try\main.cpp
+	<iostream>
+	<string>
+	"interface.h"
+
+1719494563 c:\users\pc\desktop\project_final one\total_try\include\read_data.h
+	<string>
+
+1719495267 c:\users\pc\desktop\project_final one\total_try\include\filter_signal.h
+	<string>
+	"Read_data.h"
+
+1719494563 c:\users\pc\desktop\project_final one\total_try\include\calc_pf.h
+	"Filter_Signal.h"
+	"freq_period.h"
+
+1719494563 c:\users\pc\desktop\project_final one\total_try\include\freq_period.h
+	<cmath>
+	"Filter_Signal.h"
+
+1719494563 c:\users\pc\desktop\project_final one\total_try\include\rms.h
+	"Filter_Signal.h"
+
+1722519203 source:c:\users\pc\desktop\project_final one\total_try\src\calc_pf.cpp
+	<cmath>
+	"calc_pf.h"
+
+1719495267 source:c:\users\pc\desktop\project_final one\total_try\src\filter_signal.cpp
+	"Filter_Signal.h"
+
+1722519203 source:c:\users\pc\desktop\project_final one\total_try\src\freq_period.cpp
+	"freq_period.h"
+	<iostream>
+
+1722519203 source:c:\users\pc\desktop\project_final one\total_try\src\read_data.cpp
+	"Read_data.h"
+	<iostream>
+	<sstream>
+	<fstream>
+	<string>
+
+1719494563 source:c:\users\pc\desktop\project_final one\total_try\src\rms.cpp
+	"RMS.h"
+	<cmath>
+
+1719723732 c:\users\pc\desktop\project_final one\total_try\include\interface.h
+	<iostream>
+	<string>
+	<sstream>
+	<fstream>
+	"Read_data.h"
+	"Filter_Signal.h"
+	"calc_pf.h"
+	"RMS.h"
+	"freq_period.h"
+	"Alarm.h"
+	"power.h"
+	"Energy_cost.h"
+	"energy.h"
+
+1719573906 c:\users\pc\desktop\project_final one\total_try\include\alarm.h
+	"Filter_Signal.h"
+	"freq_period.h"
+
+1719494563 c:\users\pc\desktop\project_final one\total_try\include\power.h
+	"freq_period.h"
+	"Filter_Signal.h"
+	<cmath>
+
+1719462305 c:\users\pc\desktop\project_final one\total_try\include\energy_cost.h
+	<cmath>
+
+1719494563 c:\users\pc\desktop\project_final one\total_try\include\energy.h
+	"Filter_Signal.h"
+
+1719724803 source:c:\users\pc\desktop\project_final one\total_try\src\alarm.cpp
+	<iostream>
+	"Alarm.h"
+
+1722519203 source:c:\users\pc\desktop\project_final one\total_try\src\energy.cpp
+	"energy.h"
+
+1719462305 source:c:\users\pc\desktop\project_final one\total_try\src\energy_cost.cpp
+	"Energy_cost.h"
+
+1722519203 source:c:\users\pc\desktop\project_final one\total_try\src\power.cpp
+	"power.h"
+
+1722518540 source:c:\users\pc\desktop\project_final one\total_try\src\interface.cpp
+	"interface.h"
+
+1722519203 source:c:\users\pc\desktop\smart meter\main.cpp
+	<iostream>
+	<string>
+	"interface.h"
+
+1719723732 c:\users\pc\desktop\smart meter\include\interface.h
+	<iostream>
+	<string>
+	<sstream>
+	<fstream>
+	"Read_data.h"
+	"Filter_Signal.h"
+	"calc_pf.h"
+	"RMS.h"
+	"freq_period.h"
+	"Alarm.h"
+	"power.h"
+	"Energy_cost.h"
+	"energy.h"
+
+1719494563 c:\users\pc\desktop\smart meter\include\read_data.h
+	<string>
+
+1719495267 c:\users\pc\desktop\smart meter\include\filter_signal.h
+	<string>
+	"Read_data.h"
+
+1719494563 c:\users\pc\desktop\smart meter\include\calc_pf.h
+	"Filter_Signal.h"
+	"freq_period.h"
+
+1719494563 c:\users\pc\desktop\smart meter\include\freq_period.h
+	<cmath>
+	"Filter_Signal.h"
+
+1719494563 c:\users\pc\desktop\smart meter\include\rms.h
+	"Filter_Signal.h"
+
+1719573906 c:\users\pc\desktop\smart meter\include\alarm.h
+	"Filter_Signal.h"
+	"freq_period.h"
+
+1719494563 c:\users\pc\desktop\smart meter\include\power.h
+	"freq_period.h"
+	"Filter_Signal.h"
+	<cmath>
+
+1719462305 c:\users\pc\desktop\smart meter\include\energy_cost.h
+	<cmath>
+
+1719494563 c:\users\pc\desktop\smart meter\include\energy.h
+	"Filter_Signal.h"
+
+1722521507 source:c:\users\pc\desktop\smart meter\src\alarm.cpp
+	<iostream>
+	"Alarm.h"
+
+1722519203 source:c:\users\pc\desktop\smart meter\src\calc_pf.cpp
+	<cmath>
+	"calc_pf.h"
+
+1722519203 source:c:\users\pc\desktop\smart meter\src\energy.cpp
+	"energy.h"
+
+1719462305 source:c:\users\pc\desktop\smart meter\src\energy_cost.cpp
+	"Energy_cost.h"
+
+1719495267 source:c:\users\pc\desktop\smart meter\src\filter_signal.cpp
+	"Filter_Signal.h"
+
+1722519203 source:c:\users\pc\desktop\smart meter\src\freq_period.cpp
+	"freq_period.h"
+	<iostream>
+
+1722521507 source:c:\users\pc\desktop\smart meter\src\interface.cpp
+	"interface.h"
+
+1722519203 source:c:\users\pc\desktop\smart meter\src\power.cpp
+	"power.h"
+
+1722519203 source:c:\users\pc\desktop\smart meter\src\read_data.cpp
+	"Read_data.h"
+	<iostream>
+	<sstream>
+	<fstream>
+	<string>
+
+1719494563 source:c:\users\pc\desktop\smart meter\src\rms.cpp
+	"RMS.h"
+	<cmath>
+
+1751279895 source:c:\users\pc\desktop\smart_meter_edits\main.cpp
+	<iostream>
+	<string>
+	"interface_list.h"
+
+1750834033 c:\users\pc\desktop\smart_meter_edits\include\interface.h
+	<iostream>
+	<string>
+	<sstream>
+	<fstream>
+	"Read_data.h"
+	"Filter_Signal.h"
+	"calc_pf.h"
+	"RMS.h"
+	"freq_period.h"
+	"Alarm.h"
+	"power.h"
+	"Energy_cost.h"
+	"energy.h"
+
+1751280211 c:\users\pc\desktop\smart_meter_edits\include\read_data.h
+	<string>
+	<iostream>
+	<sstream>
+	<fstream>
+
+1751280274 c:\users\pc\desktop\smart_meter_edits\include\filter_signal.h
+	<string>
+	<iostream>
+	<fstream>
+	"Read_data.h"
+
+1750827996 c:\users\pc\desktop\smart_meter_edits\include\calc_pf.h
+	<iostream>
+	"Filter_Signal.h"
+	"freq_period.h"
+
+1751280274 c:\users\pc\desktop\smart_meter_edits\include\freq_period.h
+	<cmath>
+	<iostream>
+	"Filter_Signal.h"
+
+1750741545 c:\users\pc\desktop\smart_meter_edits\include\rms.h
+	"Filter_Signal.h"
+
+1751268989 c:\users\pc\desktop\smart_meter_edits\include\alarm.h
+	"Filter_Signal.h"
+	"freq_period.h"
+	<fstream>
+	<ostream>
+	<iostream>
+
+1719494563 c:\users\pc\desktop\smart_meter_edits\include\power.h
+	"freq_period.h"
+	"Filter_Signal.h"
+	<cmath>
+
+1719462305 c:\users\pc\desktop\smart_meter_edits\include\energy_cost.h
+	<cmath>
+
+1750742317 c:\users\pc\desktop\smart_meter_edits\include\energy.h
+	"Filter_Signal.h"
+
+1751269226 source:c:\users\pc\desktop\smart_meter_edits\src\alarm.cpp
+	"Alarm.h"
+
+1751271594 source:c:\users\pc\desktop\smart_meter_edits\src\calc_pf.cpp
+	<cmath>
+	"calc_pf.h"
+
+1750742317 source:c:\users\pc\desktop\smart_meter_edits\src\energy.cpp
+	"energy.h"
+
+1719462305 source:c:\users\pc\desktop\smart_meter_edits\src\energy_cost.cpp
+	"Energy_cost.h"
+
+1751280235 source:c:\users\pc\desktop\smart_meter_edits\src\filter_signal.cpp
+	"Filter_Signal.h"
+
+1751280274 source:c:\users\pc\desktop\smart_meter_edits\src\freq_period.cpp
+	"freq_period.h"
+
+1751224705 source:c:\users\pc\desktop\smart_meter_edits\src\interface.cpp
+	"interface.h"
+
+1750830387 source:c:\users\pc\desktop\smart_meter_edits\src\power.cpp
+	"power.h"
+
+1751277361 source:c:\users\pc\desktop\smart_meter_edits\src\rms.cpp
+	"RMS.h"
+	<cmath>
+
+1751280211 source:c:\users\pc\desktop\smart_meter_edits\src\read_data.cpp
+	"Read_data.h"
+
+1751280354 source:c:\users\pc\desktop\smart_meter_edits\src\interface_list.cpp
+	"interface_List.h"
+
+1751280354 c:\users\pc\desktop\smart_meter_edits\include\interface_list.h
+	<iostream>
+	<string>
+	"Read_data.h"
+	"Filter_Signal.h"
+	"freq_period.h"
+	"Alarm.h"
+	"Calc_Stats_Periods.h"
+	"Calc_Energy_Avg-Power_RMS.h"
+
+1751280637 c:\users\pc\desktop\smart_meter_edits\include\calc_stats_periods.h
+	<cmath>
+	<iostream>
+	"Filter_Signal.h"
+	"freq_period.h"
+	"Energy_cost.h"
+
+1751280637 source:c:\users\pc\desktop\smart_meter_edits\src\calc_stats_periods.cpp
+	"Calc_Stats_Periods.h"
+
+1751277184 c:\users\pc\desktop\smart_meter_edits\include\calc_energy_rms.h
+	"Filter_Signal.h"
+
+1751277341 c:\users\pc\desktop\smart_meter_edits\include\calc_energy_avg-power_rms.h
+	"Filter_Signal.h"
+	<math.h>
+
+1751277303 source:c:\users\pc\desktop\smart_meter_edits\src\calc_energy_rms.cpp
+	"Calc_Energy_RMS.h"
+
+1751278619 source:c:\users\pc\desktop\smart_meter_edits\src\calc_energy_avg-power_rms.cpp
+	"Calc_Energy_Avg-Power_RMS.h"
+

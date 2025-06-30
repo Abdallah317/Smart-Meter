@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Smart_Meter_Edits" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/total_try" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/total_try" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="include/Alarm.h" />
+		<Unit filename="include/Calc_Energy_Avg-Power_RMS.h" />
+		<Unit filename="include/Calc_Stats_Periods.h" />
+		<Unit filename="include/Energy_cost.h" />
+		<Unit filename="include/Filter_Signal.h" />
+		<Unit filename="include/Read_data.h" />
+		<Unit filename="include/freq_period.h" />
+		<Unit filename="include/interface_list.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/Alarm.cpp" />
+		<Unit filename="src/Calc_Energy_Avg-Power_RMS.cpp" />
+		<Unit filename="src/Calc_Stats_Periods.cpp" />
+		<Unit filename="src/Energy_cost.cpp" />
+		<Unit filename="src/Filter_Signal.cpp" />
+		<Unit filename="src/Read_data.cpp" />
+		<Unit filename="src/freq_period.cpp" />
+		<Unit filename="src/interface_list.cpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
